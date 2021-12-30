@@ -1,0 +1,3 @@
+filter.c:11:6:filter_init	32	static
+filter.c:22:7:filter_apply	16	static
+filter.c:32:6:filter_update_cutoff	32	static

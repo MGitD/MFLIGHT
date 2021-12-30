@@ -1,0 +1,6 @@
+MPU6050.c:11:9:MPU6050_initialise	24	static
+MPU6050.c:77:6:MPU6050_read_acc	32	static
+MPU6050.c:101:6:MPU6050_read_gyro	32	static
+MPU6050.c:133:19:MPU6050_read_REG	48	static
+MPU6050.c:140:19:MPU6050_read_REGS	48	static
+MPU6050.c:146:19:MPU6050_write_REG	48	static
